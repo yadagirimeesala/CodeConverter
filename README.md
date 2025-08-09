@@ -1,6 +1,12 @@
 # CodeConverter
 
-An AI-powered web application that instantly converts code between programming languages using advanced LLMs (Perplexity, OpenAI, or Hugging Face). Built with a modern React frontend and a robust Node.js/Express backend, CodeConverter offers a seamless, intuitive experience for developers and learners alike.
+
+An AI-powered web application that instantly converts code between programming languages using advanced LLMs (Perplexity). Built with a modern React frontend and a robust Node.js/Express backend, CodeConverter offers a seamless, intuitive experience for developers and learners alike.
+
+---
+
+## 🌐 Live Demo
+[https://codeconvertter.onrender.com/](https://codeconvertter.onrender.com/)
 
 ---
 
@@ -10,7 +16,7 @@ An AI-powered web application that instantly converts code between programming l
 - **Multiple Languages Supported:** Python, JavaScript, Java, C++, Go, Ruby, TypeScript (easily extendable).
 - **Secure API Integration:** Backend securely connects to Perplexity (or other LLMs) using environment variables.
 - **Copy & Swap:** One-click copy and language swap for fast workflows.
-- **Deployed Online:** Try it live (see below)!
+- **Deployed Online:** Try it live 
 
 ---
 
